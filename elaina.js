@@ -32,7 +32,7 @@ const { smsg, formatp, tanggal, formatDate, getTime, isUrl, sleep, clockString, 
 const primbon = new Primbon()
 
 
-//rpg function\\
+//rpg function
    const { 
      addInventoriDarah, 
       cekDuluJoinAdaApaKagaDiJson, 
@@ -2092,7 +2092,7 @@ case 'wallpaper': {
                 anu = await pinterest(text)
                 result = anu[Math.floor(Math.random() * anu.length)]               
                 let buttons = [                   
-                    {buttonId: `pinterest ${text}`, buttonText: {displayText: '► NEXT'}, type: 1}
+                    {buttonId: `.pinterest ${text}`, buttonText: {displayText: '► NEXT'}, type: 1}
                 ]
                 let buttonMessage = {
                     image: { url: result },
