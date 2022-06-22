@@ -1,8 +1,9 @@
+# Ga lama lagi Ganti Base :)
+
 ### INFO 
 Jika Fitur Api error Kemungkinan Apikey expired kalian bisa buat apikey sendiri di [`Xteam`](https://xteam.xyz/)
 <br>
 
-### NOTE
 This Script is for everyone, not for Sale!, Ngeyel? jahanam menunggumu
 
 Original : [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
